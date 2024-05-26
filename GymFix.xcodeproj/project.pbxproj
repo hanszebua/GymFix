@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		437C28892BFC897E00D421F2 /* Exercises_picker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437C28882BFC897E00D421F2 /* Exercises_picker.swift */; };
+		437C288B2BFC8A2F00D421F2 /* Preview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437C288A2BFC8A2F00D421F2 /* Preview.swift */; };
+		437C288D2BFC8A4400D421F2 /* Rep Picker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437C288C2BFC8A4400D421F2 /* Rep Picker.swift */; };
+		437C288F2BFC8A6400D421F2 /* Counter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437C288E2BFC8A6400D421F2 /* Counter.swift */; };
+		437C28912BFC8A7100D421F2 /* Summary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437C28902BFC8A7100D421F2 /* Summary.swift */; };
+		437C28932BFCFBAE00D421F2 /* GymFix - Full.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 437C28922BFCFBAE00D421F2 /* GymFix - Full.mlmodel */; };
+		437C28992BFE4D0500D421F2 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437C28982BFE4D0500D421F2 /* SwiftUIView.swift */; };
+		437C289D2BFFAF6700D421F2 /* CounterFinished.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437C289C2BFFAF6700D421F2 /* CounterFinished.swift */; };
+		437C289F2BFFB24A00D421F2 /* Info_success.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437C289E2BFFB24A00D421F2 /* Info_success.swift */; };
+		437C28A12BFFB32B00D421F2 /* info_fail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437C28A02BFFB32B00D421F2 /* info_fail.swift */; };
 		43E852952BFC79EE00BFF919 /* GymFix Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 43E852942BFC79EE00BFF919 /* GymFix Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		43E8529A2BFC79EE00BFF919 /* GymFixApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E852992BFC79EE00BFF919 /* GymFixApp.swift */; };
 		43E8529C2BFC79EE00BFF919 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E8529B2BFC79EE00BFF919 /* ContentView.swift */; };
@@ -39,6 +49,16 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		437C28882BFC897E00D421F2 /* Exercises_picker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercises_picker.swift; sourceTree = "<group>"; };
+		437C288A2BFC8A2F00D421F2 /* Preview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Preview.swift; sourceTree = "<group>"; };
+		437C288C2BFC8A4400D421F2 /* Rep Picker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rep Picker.swift"; sourceTree = "<group>"; };
+		437C288E2BFC8A6400D421F2 /* Counter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Counter.swift; sourceTree = "<group>"; };
+		437C28902BFC8A7100D421F2 /* Summary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Summary.swift; sourceTree = "<group>"; };
+		437C28922BFCFBAE00D421F2 /* GymFix - Full.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "GymFix - Full.mlmodel"; sourceTree = "<group>"; };
+		437C28982BFE4D0500D421F2 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		437C289C2BFFAF6700D421F2 /* CounterFinished.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterFinished.swift; sourceTree = "<group>"; };
+		437C289E2BFFB24A00D421F2 /* Info_success.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Info_success.swift; sourceTree = "<group>"; };
+		437C28A02BFFB32B00D421F2 /* info_fail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = info_fail.swift; sourceTree = "<group>"; };
 		43E8528E2BFC79EE00BFF919 /* GymFix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GymFix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43E852942BFC79EE00BFF919 /* GymFix Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GymFix Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		43E852992BFC79EE00BFF919 /* GymFixApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymFixApp.swift; sourceTree = "<group>"; };
@@ -80,6 +100,16 @@
 			children = (
 				43E852992BFC79EE00BFF919 /* GymFixApp.swift */,
 				43E8529B2BFC79EE00BFF919 /* ContentView.swift */,
+				437C28922BFCFBAE00D421F2 /* GymFix - Full.mlmodel */,
+				437C289E2BFFB24A00D421F2 /* Info_success.swift */,
+				437C28A02BFFB32B00D421F2 /* info_fail.swift */,
+				437C28882BFC897E00D421F2 /* Exercises_picker.swift */,
+				437C288A2BFC8A2F00D421F2 /* Preview.swift */,
+				437C288C2BFC8A4400D421F2 /* Rep Picker.swift */,
+				437C288E2BFC8A6400D421F2 /* Counter.swift */,
+				437C28902BFC8A7100D421F2 /* Summary.swift */,
+				437C289C2BFFAF6700D421F2 /* CounterFinished.swift */,
+				437C28982BFE4D0500D421F2 /* SwiftUIView.swift */,
 				43E8529D2BFC79EF00BFF919 /* Assets.xcassets */,
 				43E8529F2BFC79EF00BFF919 /* Preview Content */,
 			);
@@ -193,7 +223,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				43E8529C2BFC79EE00BFF919 /* ContentView.swift in Sources */,
+				437C28932BFCFBAE00D421F2 /* GymFix - Full.mlmodel in Sources */,
+				437C28892BFC897E00D421F2 /* Exercises_picker.swift in Sources */,
+				437C288F2BFC8A6400D421F2 /* Counter.swift in Sources */,
+				437C28992BFE4D0500D421F2 /* SwiftUIView.swift in Sources */,
+				437C288B2BFC8A2F00D421F2 /* Preview.swift in Sources */,
+				437C289F2BFFB24A00D421F2 /* Info_success.swift in Sources */,
+				437C289D2BFFAF6700D421F2 /* CounterFinished.swift in Sources */,
+				437C288D2BFC8A4400D421F2 /* Rep Picker.swift in Sources */,
+				437C28A12BFFB32B00D421F2 /* info_fail.swift in Sources */,
 				43E8529A2BFC79EE00BFF919 /* GymFixApp.swift in Sources */,
+				437C28912BFC8A7100D421F2 /* Summary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -330,6 +370,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"GymFix Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = F7Q8Z8A9XT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = GymFix;
@@ -359,6 +400,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"GymFix Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = F7Q8Z8A9XT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = GymFix;
@@ -387,6 +429,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F7Q8Z8A9XT;
 				INFOPLIST_KEY_CFBundleDisplayName = GymFix;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Kucing.GymFix;
@@ -402,6 +445,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F7Q8Z8A9XT;
 				INFOPLIST_KEY_CFBundleDisplayName = GymFix;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Kucing.GymFix;
